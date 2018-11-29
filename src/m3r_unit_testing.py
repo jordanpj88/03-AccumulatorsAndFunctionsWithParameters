@@ -4,7 +4,7 @@ This module helps you understand:
   -- the difference between PRINT and RETURN
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
-         Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
+         Aaron Wilkin, their colleagues, and Parker Jordan.
 """  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 ###############################################################################
 #
