@@ -126,7 +126,7 @@ def sum_powers_in_range(m, n, p):
     # -------------------------------------------------------------------------
     import math
     total = 0
-    for k in range(n):
+    for k in range(n - m + 1):
         total = total + ((m + k) ** p)
 
     return total
